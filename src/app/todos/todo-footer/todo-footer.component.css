@@ -1,3 +1,9 @@
 footer {
     font-size: 12px;
+    height: 65px;
+}
+
+.filters li {
+    display: block !important;
+    margin-bottom: 5px;
 }
